@@ -1,0 +1,13 @@
+# VS Code
+.vscode
+
+# env file
+.env
+
+# Built files directory
+dist
+
+# Dependency directories
+node_modules/
+
+.env
